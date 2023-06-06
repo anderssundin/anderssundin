@@ -1,9 +1,7 @@
 # Hej! 👋
-## Anders Sundin heter jag och läser första året på webbutvecklingsprogrammet mot Mittuniversitetet i Sundsvall. 
+## Anders Sundin heter jag och läser andra året på webbutvecklingsprogrammet mot Mittuniversitetet i Sundsvall. 
 ### Webbutvecklingsprogrammet är ett **två-årigt** program.
- De kurser vi för tillfället läser är:
-- 🌱 Webbutveckling II (PHP, Versionshantering)
-- 🌱 Databaser
+
 
 Vill du läsa mer om programmet kan du göra det här: [TWEUG](https://webbutveckling.miun.se/)
 
